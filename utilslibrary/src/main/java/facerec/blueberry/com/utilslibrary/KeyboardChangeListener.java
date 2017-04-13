@@ -6,10 +6,6 @@ import android.util.Log;
 import android.view.View;
 import android.view.ViewTreeObserver;
 
-/**
- * Created by wanxin on 16/12/30.
- */
-
 public class KeyboardChangeListener implements ViewTreeObserver.OnGlobalLayoutListener {
     private static final String TAG = "ListenerHandler";
     private View mContentView;

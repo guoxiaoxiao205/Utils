@@ -4,36 +4,9 @@ import android.content.Context;
 import android.content.SharedPreferences;
 
 
-/**
- * Created by wanxin on 16/12/8.
- */
-
 public class SPUtil {
     //存储的sharedPreferences文件名
     private static final String FILE_NAME = "RRLotteryFile";
-    //登陆密码保存key
-    public static final String LOGIN_PWD = "login_pwd";
-    //记住密码的key
-    public static final String LOGIN_MOBILE = "login_mobile";
-    //记住密码的key
-    public static final String REMEMBER_LOGIN_PWD = "remember_login_pwd";
-    //用户token key
-    public static final String TOKEN = "token";
-    //客户单上次启动版本号
-    public static final String VERSION_NAME = "version_name";
-    //图片地址前缀
-    public static final String IMAGE_PRE = "image_pre";
-    //新手引导首页 玩法d11 fast3 投注
-    public static final String HOME_ENGAGE="home_engage";
-    public static final String D11_ENGAGE="d11_engage";
-    public static final String FAST3_ENGAGE="fast3_engage";
-    public static final String BET_ENGAGE="bet_engage";
-    //是否第一次显示omit
-    public static final String DPC_OMIT_SSQ="dpc_omit_Ssq";
-    //是否第一次显示omit
-    public static final String DPC_OMIT_DLT="dpc_omit_dlt";
-    //是否屏蔽购彩
-    public static final String PURCHASE="purChase";
 
 
     /**

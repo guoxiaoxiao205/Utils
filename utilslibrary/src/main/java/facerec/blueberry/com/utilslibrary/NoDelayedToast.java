@@ -4,7 +4,6 @@ import android.content.Context;
 import android.widget.Toast;
 
 /**
- * Created by wanxin on 16/9/14.
  * 不延迟排队Toast
  */
 public class NoDelayedToast {

@@ -4,7 +4,7 @@ import android.os.CountDownTimer;
 
 
 /**
- * Created by wanxin on 16/12/14.
+ * Created by guoxiao on 16/12/14.
  */
 
 public class CountDownUtils extends CountDownTimer {
